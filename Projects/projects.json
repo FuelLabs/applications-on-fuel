@@ -28,5 +28,59 @@
 			"twitter": "https://twitter.com/Fluid_Protocol",
 			"discord": ""
 		},
+		{
+			"project_name": "Acumen",
+			"project_summary": "Acumen is a lending protocol building on Fuel that provides sustainable yields for users whilst empowering emerging economies.",
+			"logo": "",
+			"tags": [
+				"DeFi",
+				"Lending"
+			],
+			"website": "https://acumen.network/",
+			"github": "",
+			"twitter": "https://twitter.com/acumenofficial",
+			"discord": ""
+		},
+		{
+			"project_name": "SwayLend",
+			"project_summary": "Swaylend is a Compound inspired lending protocol building on Fuel.",
+			"logo": "",
+			"tags": [
+				"Lending",
+				"DeFi",
+			],
+			"website": "https://swaylend.com/",
+			"github": "https://github.com/sway-gang",
+			"twitter": "https://twitter.com/swaylend",
+			"discord": "https://discord.com/invite/eC97a9U2Pe"
+		},
+		{
+			"project_name": "Microchain Systems",
+			"project_summary": "Microchain systems is a UniV2 Inspired Dex launching on Fuel.",
+			"logo": "",
+			"tags": [
+				"DEX",
+				"AMM",
+				"DeFi
+			],
+			"website": "https://microchain.systems/",
+			"github": "",
+			"twitter": "https://twitter.com/MicrochainSys",
+			"discord": ""
+		}
+		{
+			"project_name": "Thunder",
+			"project_summary": "Thunder is a best in class NFT marketplace building on Fuel, allowing for bulk transaction execution, and taking full advantage of the Fuel stack.",
+			"logo": "",
+			"tags": [
+				"NFT Marketplace",
+				"NFT",
+				"Web3"
+			],
+			"website": "https://thundernft.market/",
+			"github": "",
+			"twitter": "https://twitter.com/ThunderbyFuel",
+			"discord": "https://discord.com/invite/thundernftmarket"
+		}
 	]
 }
