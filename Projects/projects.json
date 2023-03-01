@@ -1,18 +1,32 @@
 {
 	"Projects": [
 		{
-			"project_name": "",
-			"project_summary": "",
+			"project_name": "Elix Finance",
+			"project_summary": "Elix introduces a new generation of decentralized exchanges (DEX) based on Fuel, the first modular execution layer powered by the innovative FuelVM. By leveraging a new approach to previous AMM designs alongside Fuel’s parallel transaction execution, Elix will provide high capital efficiency, flexible pools, automated liquidity and transactions at lightning speed and maximum security.",
 			"logo": "",
 			"tags": [
-				"",
-				"",
-				""
+				"DEX",
+				"AMM",
+				"DeFi"
+			],
+			"website": "https://elix.finance/",
+			"github": "https://github.com/elixfinance",
+			"twitter": "https://twitter.com/elixfinance",
+			"discord": "https://discord.com/invite/6WaN3dwHmZ"
+		},
+		{
+			"project_name": "Fluid Protocol",
+			"project_summary": "Fluid Protocol is building USDF, the native decentralized stablecoin for the Fuel Ecosystem",
+			"logo": "",
+			"tags": [
+				"Stablecoin",
+				"DeFi",
+				"Lending"
 			],
 			"website": "",
 			"github": "",
-			"twitter": "",
+			"twitter": "https://twitter.com/Fluid_Protocol",
 			"discord": ""
-		}
+		},
 	]
 }
