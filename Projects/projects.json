@@ -110,5 +110,48 @@
 			"twitter": "https://twitter.com/redstone_defi",
 			"discord": "https://discord.com/invite/PVxBZKFr46"
 		}
+		{
+			"project_name": "Fuel Nomen",
+			"project_summary": "The next generation name service running on Fuel",
+			"logo": "",
+			"tags": [
+				"Names",
+				"Infrastructure",
+				"Web3"
+			],
+			"website": "https://www.nomen.sh/",
+			"github": "https://github.com/fuelnomen",
+			"twitter": "https://twitter.com/fuelnomen",
+			"discord": ""
+		}
+		{
+			"project_name": "SmartMoney",
+			"project_summary": "Smartmoney is  truly decentralized Lending and Burrowing protocol, backed by collateral and therefore offering greater flexibility to end users.",
+			"logo": "",
+			"tags": [
+				"Lending",
+				"DeFi",
+				
+				
+			],
+			"website": "https://smartmoney-labs.github.io/",
+			"github": "https://github.com/SmartMoney-Labs",
+			"twitter": "https://twitter.com/smartmoney_labs",
+			"discord": ""
+		}
+		{
+			"project_name": "Poolshark",
+			"project_summary": "Poolshark is a directional AMM where users can profit from volatility with less maintenance. Traders can now be LPs too.",
+			"logo": "",
+			"tags": [
+				"AMM",
+				"DeFi",
+				"Web3"
+			],
+			"website": "https://poolshark.fi/",
+			"github": "",
+			"twitter": "https://twitter.com/poolsharks_labs",
+			"discord": "https://discord.com/invite/poolshark"
+		}
 	]
 }
