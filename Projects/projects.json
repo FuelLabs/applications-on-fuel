@@ -82,5 +82,33 @@
 			"twitter": "https://twitter.com/ThunderbyFuel",
 			"discord": "https://discord.com/invite/thundernftmarket"
 		}
+		{
+			"project_name": "PlayEstates",
+			"project_summary": "PlayEstates’ mission is to make real asset investment accessible and fun. PlayEstates fractionalizes and tokenizes real-world property assets into the forms of non-fungible-tokens (NFTs). This means that our NFTs have real world value.",
+			"logo": "",
+			"tags": [
+				"Gaming",
+				"Marketplace",
+				"NFT"
+			],
+			"website": "https://www.playestates.com/system/market-home",
+			"github": "",
+			"twitter": "https://twitter.com/PlayEstates",
+			"discord": "http://discord.gg/PlayEstates"
+		}
+		{
+			"project_name": "Redstone Oracles",
+			"project_summary": "Redstone is a protocol offering oracles that provide frequently updated, reliable and diverse data for your dApp and smart contracts.",
+			"logo": "",
+			"tags": [
+				"Oracle",
+				"Infrastructure",
+				"Data"
+			],
+			"website": "https://redstone.finance/",
+			"github": "https://github.com/redstone-finance",
+			"twitter": "https://twitter.com/redstone_defi",
+			"discord": "https://discord.com/invite/PVxBZKFr46"
+		}
 	]
 }
