@@ -47,7 +47,7 @@
 			"logo": "",
 			"tags": [
 				"Lending",
-				"DeFi",
+				"DeFi"
 			],
 			"website": "https://swaylend.com/",
 			"github": "https://github.com/sway-gang",
@@ -67,7 +67,7 @@
 			"github": "",
 			"twitter": "https://twitter.com/MicrochainSys",
 			"discord": ""
-		}
+		},
 		{
 			"project_name": "Thunder",
 			"project_summary": "Thunder is a best in class NFT marketplace building on Fuel, allowing for bulk transaction execution, and taking full advantage of the Fuel stack.",
@@ -81,7 +81,7 @@
 			"github": "",
 			"twitter": "https://twitter.com/ThunderbyFuel",
 			"discord": "https://discord.com/invite/thundernftmarket"
-		}
+		},
 		{
 			"project_name": "PlayEstates",
 			"project_summary": "PlayEstates’ mission is to make real asset investment accessible and fun. PlayEstates fractionalizes and tokenizes real-world property assets into the forms of non-fungible-tokens (NFTs). This means that our NFTs have real world value.",
@@ -95,7 +95,7 @@
 			"github": "",
 			"twitter": "https://twitter.com/PlayEstates",
 			"discord": "http://discord.gg/PlayEstates"
-		}
+		},
 		{
 			"project_name": "Redstone Oracles",
 			"project_summary": "Redstone is a protocol offering oracles that provide frequently updated, reliable and diverse data for your dApp and smart contracts.",
@@ -109,7 +109,7 @@
 			"github": "https://github.com/redstone-finance",
 			"twitter": "https://twitter.com/redstone_defi",
 			"discord": "https://discord.com/invite/PVxBZKFr46"
-		}
+		},
 		{
 			"project_name": "Fuel Nomen",
 			"project_summary": "The next generation name service running on Fuel",
@@ -123,22 +123,20 @@
 			"github": "https://github.com/fuelnomen",
 			"twitter": "https://twitter.com/fuelnomen",
 			"discord": ""
-		}
+		},
 		{
 			"project_name": "SmartMoney",
 			"project_summary": "Smartmoney is  truly decentralized Lending and Burrowing protocol, backed by collateral and therefore offering greater flexibility to end users.",
 			"logo": "",
 			"tags": [
 				"Lending",
-				"DeFi",
-				
-				
+				"DeFi"
 			],
 			"website": "https://smartmoney-labs.github.io/",
 			"github": "https://github.com/SmartMoney-Labs",
 			"twitter": "https://twitter.com/smartmoney_labs",
 			"discord": ""
-		}
+		},
 		{
 			"project_name": "Poolshark",
 			"project_summary": "Poolshark is a directional AMM where users can profit from volatility with less maintenance. Traders can now be LPs too.",
@@ -152,7 +150,7 @@
 			"github": "",
 			"twitter": "https://twitter.com/poolsharks_labs",
 			"discord": "https://discord.com/invite/poolshark"
-		}
+		},
 		{
 			"project_name": "Yama Finance",
 			"project_summary": "Yama is a novel omnichain stablecoin that facilitates extremely high leverage",
