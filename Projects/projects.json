@@ -61,7 +61,7 @@
 			"tags": [
 				"DEX",
 				"AMM",
-				"DeFi
+				"DeFi"
 			],
 			"website": "https://microchain.systems/",
 			"github": "",
@@ -152,6 +152,20 @@
 			"github": "",
 			"twitter": "https://twitter.com/poolsharks_labs",
 			"discord": "https://discord.com/invite/poolshark"
+		}
+		{
+			"project_name": "Yama Finance",
+			"project_summary": "Yama is a novel omnichain stablecoin that facilitates extremely high leverage",
+			"logo": "",
+			"tags": [
+				"Stablecoin",
+				"DeFi",
+				"Lending"
+			],
+			"website": "https://yama.finance/",
+			"github": "",
+			"twitter": "https://twitter.com/YamaFinance",
+			"discord": "discord.gg/yamafinance"
 		}
 	]
 }
