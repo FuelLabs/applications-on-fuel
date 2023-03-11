@@ -1,169 +1,256 @@
 {
-	"Projects": [
-		{
-			"project_name": "Elix Finance",
-			"project_summary": "Elix introduces a new generation of decentralized exchanges (DEX) based on Fuel, the first modular execution layer powered by the innovative FuelVM. By leveraging a new approach to previous AMM designs alongside Fuel’s parallel transaction execution, Elix will provide high capital efficiency, flexible pools, automated liquidity and transactions at lightning speed and maximum security.",
-			"logo": "",
-			"tags": [
-				"DEX",
-				"AMM",
-				"DeFi"
-			],
-			"website": "https://elix.finance/",
-			"github": "https://github.com/elixfinance",
-			"twitter": "https://twitter.com/elixfinance",
-			"discord": "https://discord.com/invite/6WaN3dwHmZ"
-		},
-		{
-			"project_name": "Fluid Protocol",
-			"project_summary": "Fluid Protocol is building USDF, the native decentralized stablecoin for the Fuel Ecosystem",
-			"logo": "",
-			"tags": [
-				"Stablecoin",
-				"DeFi",
-				"Lending"
-			],
-			"website": "",
-			"github": "",
-			"twitter": "https://twitter.com/Fluid_Protocol",
-			"discord": ""
-		},
-		{
-			"project_name": "Acumen",
-			"project_summary": "Acumen is a lending protocol building on Fuel that provides sustainable yields for users whilst empowering emerging economies.",
-			"logo": "",
-			"tags": [
-				"DeFi",
-				"Lending"
-			],
-			"website": "https://acumen.network/",
-			"github": "",
-			"twitter": "https://twitter.com/acumenofficial",
-			"discord": ""
-		},
-		{
-			"project_name": "SwayLend",
-			"project_summary": "Swaylend is a Compound inspired lending protocol building on Fuel.",
-			"logo": "",
-			"tags": [
-				"Lending",
-				"DeFi"
-			],
-			"website": "https://swaylend.com/",
-			"github": "https://github.com/sway-gang",
-			"twitter": "https://twitter.com/swaylend",
-			"discord": "https://discord.com/invite/eC97a9U2Pe"
-		},
-		{
-			"project_name": "Microchain Systems",
-			"project_summary": "Microchain systems is a UniV2 Inspired Dex launching on Fuel.",
-			"logo": "",
-			"tags": [
-				"DEX",
-				"AMM",
-				"DeFi"
-			],
-			"website": "https://microchain.systems/",
-			"github": "",
-			"twitter": "https://twitter.com/MicrochainSys",
-			"discord": ""
-		},
-		{
-			"project_name": "Thunder",
-			"project_summary": "Thunder is a best in class NFT marketplace building on Fuel, allowing for bulk transaction execution, and taking full advantage of the Fuel stack.",
-			"logo": "",
-			"tags": [
-				"NFT Marketplace",
-				"NFT",
-				"Web3"
-			],
-			"website": "https://thundernft.market/",
-			"github": "",
-			"twitter": "https://twitter.com/ThunderbyFuel",
-			"discord": "https://discord.com/invite/thundernftmarket"
-		},
-		{
-			"project_name": "PlayEstates",
-			"project_summary": "PlayEstates’ mission is to make real asset investment accessible and fun. PlayEstates fractionalizes and tokenizes real-world property assets into the forms of non-fungible-tokens (NFTs). This means that our NFTs have real world value.",
-			"logo": "",
-			"tags": [
-				"Gaming",
-				"Marketplace",
-				"NFT"
-			],
-			"website": "https://www.playestates.com/system/market-home",
-			"github": "",
-			"twitter": "https://twitter.com/PlayEstates",
-			"discord": "http://discord.gg/PlayEstates"
-		},
-		{
-			"project_name": "Redstone Oracles",
-			"project_summary": "Redstone is a protocol offering oracles that provide frequently updated, reliable and diverse data for your dApp and smart contracts.",
-			"logo": "",
-			"tags": [
-				"Oracle",
-				"Infrastructure",
-				"Data"
-			],
-			"website": "https://redstone.finance/",
-			"github": "https://github.com/redstone-finance",
-			"twitter": "https://twitter.com/redstone_defi",
-			"discord": "https://discord.com/invite/PVxBZKFr46"
-		},
-		{
-			"project_name": "Fuel Nomen",
-			"project_summary": "The next generation name service running on Fuel",
-			"logo": "",
-			"tags": [
-				"Names",
-				"Infrastructure",
-				"Web3"
-			],
-			"website": "https://www.nomen.sh/",
-			"github": "https://github.com/fuelnomen",
-			"twitter": "https://twitter.com/fuelnomen",
-			"discord": ""
-		},
-		{
-			"project_name": "SmartMoney",
-			"project_summary": "Smartmoney is  truly decentralized Lending and Burrowing protocol, backed by collateral and therefore offering greater flexibility to end users.",
-			"logo": "",
-			"tags": [
-				"Lending",
-				"DeFi"
-			],
-			"website": "https://smartmoney-labs.github.io/",
-			"github": "https://github.com/SmartMoney-Labs",
-			"twitter": "https://twitter.com/smartmoney_labs",
-			"discord": ""
-		},
-		{
-			"project_name": "Poolshark",
-			"project_summary": "Poolshark is a directional AMM where users can profit from volatility with less maintenance. Traders can now be LPs too.",
-			"logo": "",
-			"tags": [
-				"AMM",
-				"DeFi",
-				"Web3"
-			],
-			"website": "https://poolshark.fi/",
-			"github": "",
-			"twitter": "https://twitter.com/poolsharks_labs",
-			"discord": "https://discord.com/invite/poolshark"
-		},
-		{
-			"project_name": "Yama Finance",
-			"project_summary": "Yama is a novel omnichain stablecoin that facilitates extremely high leverage",
-			"logo": "",
-			"tags": [
-				"Stablecoin",
-				"DeFi",
-				"Lending"
-			],
-			"website": "https://yama.finance/",
-			"github": "",
-			"twitter": "https://twitter.com/YamaFinance",
-			"discord": "discord.gg/yamafinance"
-		}
-	]
+  "Projects": [
+    {
+      "project_name": "Elix Finance",
+      "project_summary": "Elix introduces a new generation of decentralized exchanges (DEX) based on Fuel, the first modular execution layer powered by the innovative FuelVM. By leveraging a new approach to previous AMM designs alongside Fuel’s parallel transaction execution, Elix will provide high capital efficiency, flexible pools, automated liquidity and transactions at lightning speed and maximum security.",
+      "logo": "",
+      "tags": [
+        "DEX",
+        "AMM",
+        "DeFi"
+      ],
+      "website": "https://elix.finance/",
+      "github": "https://github.com/elixfinance",
+      "twitter": "https://twitter.com/elixfinance",
+      "discord": "https://discord.com/invite/6WaN3dwHmZ"
+    },
+    {
+      "project_name": "Fluid Protocol",
+      "project_summary": "Fluid Protocol is building USDF, the native decentralized stablecoin for the Fuel Ecosystem",
+      "logo": "",
+      "tags": [
+        "Stablecoin",
+        "DeFi",
+        "Lending"
+      ],
+      "website": "",
+      "github": "",
+      "twitter": "https://twitter.com/Fluid_Protocol",
+      "discord": ""
+    },
+    {
+      "project_name": "Acumen",
+      "project_summary": "Acumen is a lending protocol building on Fuel that provides sustainable yields for users whilst empowering emerging economies.",
+      "logo": "",
+      "tags": [
+        "DeFi",
+        "Lending"
+      ],
+      "website": "https://acumen.network/",
+      "github": "",
+      "twitter": "https://twitter.com/acumenofficial",
+      "discord": ""
+    },
+    {
+      "project_name": "SwayLend",
+      "project_summary": "Swaylend is a Compound inspired lending protocol building on Fuel.",
+      "logo": "",
+      "tags": [
+        "Lending",
+        "DeFi"
+      ],
+      "website": "https://swaylend.com/",
+      "github": "https://github.com/sway-gang",
+      "twitter": "https://twitter.com/swaylend",
+      "discord": "https://discord.com/invite/eC97a9U2Pe"
+    },
+    {
+      "project_name": "Microchain Systems",
+      "project_summary": "Microchain systems is a UniV2 Inspired Dex launching on Fuel.",
+      "logo": "",
+      "tags": [
+        "DEX",
+        "AMM",
+        "DeFi"
+      ],
+      "website": "https://microchain.systems/",
+      "github": "",
+      "twitter": "https://twitter.com/MicrochainSys",
+      "discord": ""
+    },
+    {
+      "project_name": "Thunder",
+      "project_summary": "Thunder is a best in class NFT marketplace building on Fuel, allowing for bulk transaction execution, and taking full advantage of the Fuel stack.",
+      "logo": "",
+      "tags": [
+        "NFT Marketplace",
+        "NFT",
+        "Web3"
+      ],
+      "website": "https://thundernft.market/",
+      "github": "",
+      "twitter": "https://twitter.com/ThunderbyFuel",
+      "discord": "https://discord.com/invite/thundernftmarket"
+    },
+    {
+      "project_name": "PlayEstates",
+      "project_summary": "PlayEstates’ mission is to make real asset investment accessible and fun. PlayEstates fractionalizes and tokenizes real-world property assets into the forms of non-fungible-tokens (NFTs). This means that our NFTs have real world value.",
+      "logo": "",
+      "tags": [
+        "Gaming",
+        "Marketplace",
+        "NFT"
+      ],
+      "website": "https://www.playestates.com/system/market-home",
+      "github": "",
+      "twitter": "https://twitter.com/PlayEstates",
+      "discord": "http://discord.gg/PlayEstates"
+    },
+    {
+      "project_name": "Redstone Oracles",
+      "project_summary": "Redstone is a protocol offering oracles that provide frequently updated, reliable and diverse data for your dApp and smart contracts.",
+      "logo": "",
+      "tags": [
+        "Oracle",
+        "Infrastructure",
+        "Data"
+      ],
+      "website": "https://redstone.finance/",
+      "github": "https://github.com/redstone-finance",
+      "twitter": "https://twitter.com/redstone_defi",
+      "discord": "https://discord.com/invite/PVxBZKFr46"
+    },
+    {
+      "project_name": "Fuel Nomen",
+      "project_summary": "The next generation name service running on Fuel",
+      "logo": "",
+      "tags": [
+        "Names",
+        "Infrastructure",
+        "Web3"
+      ],
+      "website": "https://www.nomen.sh/",
+      "github": "https://github.com/fuelnomen",
+      "twitter": "https://twitter.com/fuelnomen",
+      "discord": ""
+    },
+    {
+      "project_name": "SmartMoney",
+      "project_summary": "Smartmoney is  truly decentralized Lending and Burrowing protocol, backed by collateral and therefore offering greater flexibility to end users.",
+      "logo": "",
+      "tags": [
+        "Lending",
+        "DeFi"
+      ],
+      "website": "https://smartmoney-labs.github.io/",
+      "github": "https://github.com/SmartMoney-Labs",
+      "twitter": "https://twitter.com/smartmoney_labs",
+      "discord": ""
+    },
+    {
+      "project_name": "Poolshark",
+      "project_summary": "Poolshark is a directional AMM where users can profit from volatility with less maintenance. Traders can now be LPs too.",
+      "logo": "",
+      "tags": [
+        "AMM",
+        "DeFi",
+        "Web3"
+      ],
+      "website": "https://poolshark.fi/",
+      "github": "",
+      "twitter": "https://twitter.com/poolsharks_labs",
+      "discord": "https://discord.com/invite/poolshark"
+    },
+    {
+      "project_name": "Yama Finance",
+      "project_summary": "Yama is a novel omnichain stablecoin that facilitates extremely high leverage",
+      "logo": "",
+      "tags": [
+        "Stablecoin",
+        "DeFi",
+        "Lending"
+      ],
+      "website": "https://yama.finance/",
+      "github": "",
+      "twitter": "https://twitter.com/YamaFinance",
+      "discord": "discord.gg/yamafinance"
+    },
+    {
+      "project_name": "Tau Protocol",
+      "project_summary": "Building the native decentralized exchange on Fuel",
+      "stage": "building",
+      "logo": "",
+      "tags": [
+        "DeFi"
+      ],
+      "website": "",
+      "github": "https://github.com/tau-protocol",
+      "twitter": "https://twitter.com/TauProtocol_",
+      "discord": "https://discord.com/invite/g3eqZsA39z"
+    },
+    {
+      "project_name": "FuFi",
+      "project_summary": "FuFi is a next-generation cryptocurrency aggregator build on the @fuel_network , designed to offer users a one-stop-shop for all their cryptocurrency needs.",
+      "logo": "/logos/fufi.jpeg",
+      "tags": [
+        "DeFi"
+      ],
+      "website": "",
+      "github": "",
+      "twitter": "https://twitter.com/fufinance",
+      "discord": ""
+    },
+    {
+      "project_name": "Fuel Art",
+      "project_summary": "The next Gen NFT Marketplace on Fuel",
+      "logo": "",
+      "tags": [
+        "NFT",
+        "Marketplace"
+      ],
+      "website": "https://fuelart.io",
+      "github": "",
+      "twitter": "https://twitter.com/fuel_art",
+      "discord": "https://discord.gg/BGk5UghWWk"
+    },
+    {
+      "project_name": "Webgum",
+      "project_summary": "🕸️ An online marketplace where you can buy and sell encrypted files",
+      "logo": "",
+      "tags": [
+        "Marketplace"
+      ],
+      "website": "",
+      "twitter": "https://twitter.com/webgumapp",
+      "github": "https://github.com/Webgum",
+      "discord": ""
+    },
+    {
+      "project_name": "Unic",
+      "project_summary": "Verify your NFT by scanning",
+      "logo": "",
+      "tags": [
+        "NFT",
+        "Marketplace"
+      ],
+      "website": "https://unic.io/",
+      "github": "",
+      "twitter": "https://twitter.com/0xUNIC",
+      "discord": "https://discord.com/invite/wDX4HADQ5b"
+    },
+    {
+      "project_name": "Fuelet",
+      "project_summary": "Self-custodial wallet for the next billion users - Soon on iOS, Android and Chrome",
+      "logo": "",
+      "tags": [
+        "Wallet"
+      ],
+      "website": "https://fuelet.app",
+      "github": "https://github.com/fuelet",
+      "twitter": "https://twitter.com/FueletWallet",
+      "discord": ""
+    },
+    {
+      "project_name": "Fuel Identity",
+      "project_summary": "Building identity on Fuel",
+      "logo": "",
+      "tags": [
+        "Identity"
+      ],
+      "website": "",
+      "github": "",
+      "twitter": "https://twitter.com/fuelidentity",
+      "discord": ""
+    }
+  ]
 }
