@@ -251,6 +251,42 @@
       "github": "",
       "twitter": "https://twitter.com/fuelidentity",
       "discord": ""
+    },
+    {
+      "project_name": "Fuel Punks",
+      "project_summary": "1111 dystopian punks ready to conquer the Fastest Modular Execution Layer",
+      "logo": "",
+      "tags": [
+        "NFT"
+      ],
+      "website": "",
+      "github": "",
+      "twitter": "https://twitter.com/FuelPunks",
+      "discord": ""
+    },
+    {
+      "project_name": "Fuel Monkeys",
+      "project_summary": "hoot hoot! monkeys 🐵 are building a jungle-centric web3 SWAYment on fuel  ⛽ 🌴 built for degens, swayoors & fueloors",
+      "logo": "",
+      "tags": [
+        "NFT"
+      ],
+      "website": "",
+      "github": "",
+      "twitter": "https://twitter.com/FuelMonkeys",
+      "discord": ""
+    },
+    {
+      "project_name": "Bald Boyz NFT",
+      "project_summary": "Celebrating your true self. Join the #Fuel movement and embrace yourself with confidence.",
+      "logo": "",
+      "tags": [
+        "NFT"
+      ],
+      "website": "",
+      "github": "",
+      "twitter": "https://twitter.com/BaldBoyzOnFuel",
+      "discord": ""
     }
   ]
 }
